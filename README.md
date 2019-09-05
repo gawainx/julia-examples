@@ -13,3 +13,16 @@ To help anyone who interest in Julia can learn it from these examples
 5. Install IJulia in Pkg mode
 
 Now you can create a notebook in Julia kernal
+
+## Roadmap
+
+- Basics(function, IO, String, JSON, ...)
+- Matrix:: 2019 Winter
+- Flux basic (A deep learning framework for Julia):: 2020, Spring
+- Flux NLP examples:: 2020 Spring
+- GraphNN in Julia:: 2020 Fall
+
+## Related Links
+
+- [Home · Flux](https://fluxml.ai/Flux.jl/stable/)
+- [The Julia Language](https://julialang.org/)
