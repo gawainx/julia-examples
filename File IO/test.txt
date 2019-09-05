@@ -1,0 +1,5 @@
+Watford_FC	plays_in_club_inverse	Esseid_BELKALEM
+England	plays_for_country_inverse	Frank_LAMPARD
+JOAO_MOUTINHO	plays_in_club	AS_Monaco
+Goalkeeper	plays_position_inverse	Agustin_ORION
+Rickie_LAMBERT	is_aged	32
